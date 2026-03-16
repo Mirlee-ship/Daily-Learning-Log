@@ -1,1 +1,6 @@
 # Daily-Learning-Log
+# 🚀 夏雨的每日学习总结 (Java & JVM)
+
+| 日期 | 学习主题 | 核心收获 (100字以内) | 状态 |
+| :--- | :--- | :--- | :--- |
+| 2026-03-16 | GitHub 开荒 & JVM 入门 & JUC | 学习 2h JUC；配置 Git & IDEA，理解 GitHub 重要性。开始看 JVM 运行时数据区。 | ✅ |
